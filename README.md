@@ -1,9 +1,6 @@
 # Shiny_app
-
-The app
-=======================================================
 Random Number Generator App Overview
-This app allows you to generate a specified number of random numbers, with the option to choose any number between 0 and 1337. The first step in using the app is to select how many random numbers you want to generate.
+This app allows you to generate a specified number of random numbers, with the option to choose any number between 0 and 1337. The first step in using the app is to select how many random numbers you want to generate. The app is hosted here: https://acecube.shinyapps.io/Random_num_AA/
 
 X and Y Axis Customization
 In the second step, you can define the minimum and maximum values for both the x-axis and y-axis. You can select a range between -1337 and 1337 for both axes, which allows you to define the area from which your random numbers will be sampled.
